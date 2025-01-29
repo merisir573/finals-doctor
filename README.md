@@ -12,6 +12,8 @@ NOTE 2: As I explained in the video, due to not being able to make Render work I
 - For RabbitMQ the link is http://localhost:15672/#/
 - For MongoDB I recommend downloading MongoDB Compass if you want to view the data
 
+I apologize for not being able to deploy it, I did not expect Render to not work well with gateways.
+
 Github Links (Due to the nature of Render I uploaded them as seperate repositories):
 
 https://github.com/merisir573/finals-auth 
@@ -29,6 +31,8 @@ https://github.com/merisir573/finals-frontend
 Video Link:
 
 https://youtu.be/4okENh2aR3E (NOTE: The video is send only, if it doesn't work, please send an E-Mail so I can change it to public)
+
+(Sped Up) https://youtu.be/yGfUbp52p2g (NOTE: I only realised the maximum 5 minutes rule on the pdf after recording and uploading the original video, incase this rule is pivotal I made a slightly sped up version that is about 4.30 minutes.)
 
 ---My Design---
 For the most part the designs are pretty straightforward.
