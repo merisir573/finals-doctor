@@ -36,7 +36,7 @@ export class DoctorService {
     await channel.assertQueue(queue, { durable: true });
     channel.sendToQueue(queue, Buffer.from(JSON.stringify(prescription)), { persistent: true });
 
-    console.log(`📩 Prescription Queued: ${JSON.stringify(prescription)}`);
+    console.log(`Prescription Queued: ${JSON.stringify(prescription)}`);
   }
 
   async createPrescription(prescription: any) {
